@@ -1,6 +1,6 @@
 # 🐍 Python + SQL Projects
 
-Collection of Python projects with SQL database integration. Built during my learning journey at Exord Systems.
+Collection of Python projects with SQL database integration.
 
 ## 📂 What's Inside
 This repo contains Python scripts and mini-projects that connect with SQL databases for CRUD operations.
@@ -13,7 +13,7 @@ This repo contains Python scripts and mini-projects that connect with SQL databa
 - Real-world mini projects
 
 ## 🛠️ Tech Stack
-- **Language**: Python 3.x
+- **Language**: Python 
 - **Databases**: SQLite, MySQL
 - **Libraries**: `sqlite3`, `mysql-connector-python`, `pandas`
 - **Tools**: VS Code, Git
