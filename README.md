@@ -15,8 +15,8 @@ This repo contains Python scripts and mini-projects that connect with SQL databa
 ## 🛠️ Tech Stack
 - **Language**: Python 
 - **Databases**: SQLite, MySQL
-- **Libraries**: `sqlite3`, `mysql-connector-python`, `pandas`
-- **Tools**: VS Code, Git
+- **Libraries**: `sqlite3`, `mysql-connector-python`
+- **Tools**: VS Code
 
 ## ⚙️ How to Run
 
