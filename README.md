@@ -1,26 +1,27 @@
-# 🎓 LMS - Learning Management System
+# 🐍 Python + SQL Projects
 
-A Django REST Framework based Learning Management System for Exord Systems.
+Collection of Python projects with SQL database integration. Built during my learning journey at Exord Systems.
 
-## 🚀 Features
-- **Company Management**: CRUD operations for companies
-- **Course Module**: Add and manage courses
-- **User Authentication**: Login/Signup with JWT
-- **REST API**: Full DRF implementation
+## 📂 What's Inside
+This repo contains Python scripts and mini-projects that connect with SQL databases for CRUD operations.
+
+### **Main Topics Covered:**
+- Python + SQLite Integration
+- Python + MySQL Connection
+- CRUD Operations using Python
+- Database Queries from Python
+- Real-world mini projects
 
 ## 🛠️ Tech Stack
-- **Backend**: Django 5.x, Django REST Framework
-- **Database**: SQLite / PostgreSQL
-- **Authentication**: JWT Tokens
-- **Frontend**: Coming Soon
+- **Language**: Python 3.x
+- **Databases**: SQLite, MySQL
+- **Libraries**: `sqlite3`, `mysql-connector-python`, `pandas`
+- **Tools**: VS Code, Git
 
-## ⚙️ Setup Instructions
+## ⚙️ How to Run
 
-1. **Clone the repo**
+1. **Clone this repo**
 ```bash
-git clone https://github.com/your-username/lms.git
-cd lms
-
-python -m venv venv
-venv\Scripts\activate  # Windows
+git clone https://github.com/sibbaparveen2246-ctrl/python-sql.git
+cd python-sql
 
